@@ -1,5 +1,3 @@
-# SnehalKulkarni_BED_LAB5
-
 Create an MVC project using Spring Boot & Thymeleaf (Employee Management System) and perform the following operations using appropriate mappings
 
 1. View all records from the database table.
